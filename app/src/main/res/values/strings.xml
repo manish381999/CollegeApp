@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">College App</string>
+    <string name="bold" tools:ignore="ReferenceType">@font/lato_bold</string>
+    <string name="light" tools:ignore="ReferenceType">@font/lato_light</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/lato_regular</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+    <string name="about_college">It was founded as Institute of Technical Education and Research (ITER) in 1996 at Bhubaneswar and it received AICTE approval for B.Tech. Since its inception it was affiliated to Utkal University. Subsequently, it was affiliated to Biju Patnaik University of Technology (BPUT) between 2002 and 2007.
+
+Recognizing its contribution to technical and professional education the University Grants Commission (UGC), in 2007, declared Siksha O Anusandhan as a Deemed to be University by the U/S 3 of the UGC Act, 1956. In 2007, the Institute of Technical Education and Research (ITER), Bhubaneswar became a constituent institute of Siksha O Anusandhan University. Institutes, schools, and departments of SOA University are spread over 200 acres (0.81 km2) campuses in the city of Bhubaneswar.
+
+SOA has been granted Category-II Graded Autonomy Status by University Grants Commission in 2018.[</string>
+
+    <string-array name="theme">
+
+        <item>System Default</item>
+        <item>Dark</item>
+        <item>Light</item>
+    </string-array>
+
+</resources>
